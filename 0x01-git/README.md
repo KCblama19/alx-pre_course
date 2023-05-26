@@ -1,1 +1,0 @@
-ALX SE first directory
